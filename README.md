@@ -1,2 +1,2 @@
 # KaprekarRoutine
-Kaprekar's routine in python
+Kaprekar's routine (with leading zeroes) implemented in python
